@@ -2,7 +2,6 @@
     "theme_color": "#417505",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "/",
     "prefer_related_applications": false,
     "start_url": "https://www.chandradinata.com",
     "name": "Chandradinata.com",
